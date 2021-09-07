@@ -25,6 +25,8 @@
 <label for="password">Password</label>
 <input name="password" bind:value={password} type="password" />
 
-<button class="login" on:click={login}>Login</button>
-<button class="login"  on:click={signup}>Sign Up</button>
+<div class="buttons">
+  <button class="login" on:click={login}>Login</button>
+  <button class="login"  on:click={signup}>Sign Up</button>
+</div>
   

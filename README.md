@@ -3,7 +3,7 @@
 A decentralized chat app built with [GUN](https://gun.eco/).
 
 ![](github-display/GunChatSS.png)
-![Alternate image text](github-display/)
+![Kiku](images/Kiku.jpg)
 ```
 npm install
 npm run dev
